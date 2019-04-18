@@ -1,8 +1,7 @@
 # Internship 2019
 
 
-
-1. Presupunem ca un utilizator nu poate avea mai mult de un card in acelasi tip.
+I assumed that a user can not have more than one card of the same type.
 
 
 <h2>Results:</h2>
