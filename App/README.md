@@ -6,9 +6,9 @@
 
 
 <h2>Results:</h2>
-Silver:         Tva: 1894.109   Fee:31.006
-Platinum:       Tva: 1891.826   Fee:43.022
-Iridium:        Tva: 1894.489   Fee:29.006
-Bronze:         Tva: 1887.836   Fee:64.022
-Premium:        Tva: 1894.107   Fee:31.016
+Silver:         Tva: 1894.109   Fee:31.006 <br>
+Platinum:       Tva: 1891.826   Fee:43.022 <br>
+Iridium:        Tva: 1894.489   Fee:29.006 <br>
+Bronze:         Tva: 1887.836   Fee:64.022 <br>
+Premium:        Tva: 1894.107   Fee:31.016 <br>
 
